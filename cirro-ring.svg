@@ -1,20 +1,20 @@
-<svg width="92" height="92" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g>
-<path d="M46.3515 70.7767C59.841 70.7767 70.7764 59.8413 70.7764 46.3518C70.7764 32.8623 59.841 21.9269 46.3515 21.9269C32.862 21.9269 21.9266 32.8623 21.9266 46.3518C21.9266 59.8413 32.862 70.7767 46.3515 70.7767Z" fill="url(#cirro_petrol)" stroke="#B8A48E" stroke-width="1.82642"/>
-<g transform="translate(29.225 28.226) scale(0.18125)" fill="url(#cirro_mark)">
-<path d="M33 43H130L150 69H33A13 13 0 0 1 33 43Z"/>
-<path d="M63 87H160L180 113H63A13 13 0 0 1 63 87Z"/>
-<path d="M43 131H115L135 157H43A13 13 0 0 1 43 131Z"/>
-</g>
-</g>
-<defs>
-<radialGradient id="cirro_petrol" cx="0.75" cy="1" r="1" gradientTransform="translate(0.75 1) scale(1.0607 1.4142) translate(-0.75 -1)">
-<stop stop-color="#24434A"/>
-<stop offset="0.63" stop-color="#10202A"/>
-</radialGradient>
-<linearGradient id="cirro_mark" x1="0" y1="0" x2="1" y2="1">
-<stop stop-color="#B8A48E"/>
-<stop offset="1" stop-color="#EADFD0"/>
-</linearGradient>
-</defs>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(256 256) scale(10.0244) translate(-46.3515 -46.3518)">
+    <path d="M46.3515 70.7767C59.841 70.7767 70.7764 59.8413 70.7764 46.3518C70.7764 32.8623 59.841 21.9269 46.3515 21.9269C32.862 21.9269 21.9266 32.8623 21.9266 46.3518C21.9266 59.8413 32.862 70.7767 46.3515 70.7767Z" fill="url(#cirro_petrol)" stroke="#B8A48E" stroke-width="1.82642"/>
+    <g transform="translate(29.225 28.226) scale(0.18125)" fill="url(#cirro_mark)">
+      <path d="M33 43H130L150 69H33A13 13 0 0 1 33 43Z"/>
+      <path d="M63 87H160L180 113H63A13 13 0 0 1 63 87Z"/>
+      <path d="M43 131H115L135 157H43A13 13 0 0 1 43 131Z"/>
+    </g>
+  </g>
+  <defs>
+    <radialGradient id="cirro_petrol" cx="0.75" cy="1" r="1" gradientTransform="translate(0.75 1) scale(1.0607 1.4142) translate(-0.75 -1)">
+      <stop stop-color="#24434A"/>
+      <stop offset="0.63" stop-color="#10202A"/>
+    </radialGradient>
+    <linearGradient id="cirro_mark" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#B8A48E"/>
+      <stop offset="1" stop-color="#EADFD0"/>
+    </linearGradient>
+  </defs>
 </svg>
